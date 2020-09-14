@@ -25,7 +25,7 @@ let state = 1;
 // Use for developing without partner
 // This will mirror one user's mouse
 // and will ingnore the mouse over peer connection
-let mirror = true;
+let mirror = false;
 
 // Globals for lerping in heartbeat animation
 let step = 0.1;
@@ -37,7 +37,7 @@ let size = origSize;
 
 // Colors used for drawing mouse ellipses
 const colors = {
-  x: 'rgba(0, 63, 84, 0.5)',
+  x: 'rgba(200, 63, 84, 0.5)',
   y: 'rgba(49, 128, 144, 0.5)',
   z: 'rgba(82, 100, 118, 0.5)',
 };
