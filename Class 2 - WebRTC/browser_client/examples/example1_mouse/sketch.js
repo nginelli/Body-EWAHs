@@ -57,11 +57,11 @@ function setup() {
 
   // Start socket client automatically on load
   // By default it connects to http://localhost:80
-  WebRTCPeerClient.initSocketClient();
+  // WebRTCPeerClient.initSocketClient();
 
   // To connect to server over public internet pass the ngrok address
   // See https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples#to-run-signal-server-online-with-ngrok
-  // WebRTCPeerClient.initSocketClient('http://xxxxxxxxx.ngrok.io');
+  WebRTCPeerClient.initSocketClient('http://de470c3e2a87.ngrok.io');
 
   // Start the peer client
   WebRTCPeerClient.initPeerClient();
