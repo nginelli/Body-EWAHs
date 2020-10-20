@@ -1,10 +1,7 @@
 # Websocket Unity VFX Graph
-This app is built as part of a two-part final involving Websockets and Unity. It uses each client to control game objects in the Unity scene. Those game objects in turn control a VFX Graph particle system. Imagined as a collaborative interactive visual game, this prototype could later be used in a large scale context with multiple users.
+This project is built using Websockets and Unity. It uses each client to control game objects in the unity scene. Those game objects in turn control a particle system. This was meant to be a collaborative interactive visual and hopefully could be used in a large scal context with multiple users. It uses each client to control game objects in the Unity scene. Those game objects in turn control a VFX Graph particle system. Imagined as a collaborative interactive visual game, this prototype could later be used in a large scale context with multiple users, using motion tracking and more embodied interactions. 
 
 Inspired by collaborative drawing programs and a desire to make a novel type of multi-user real-time 3D sculpture.
-
-### Unity Stream <br/>
-https://piap-final.ngrok.io/
 
 ### Control App <br/>
 http://programming-is-art-final.herokuapp.com/
