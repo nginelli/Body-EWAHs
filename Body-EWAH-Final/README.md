@@ -9,9 +9,7 @@ http://programming-is-art-final.herokuapp.com/
 ### Player Websockets <br/>
 https://github.com/dylandawk/programming-is-art-final/
 
-<img src="https://github.com/nginelli/PIAP/blob/master/_files/Screen Shot 2020-05-06 at 8.16.10 PM.png">
-<br />
-<img src="https://github.com/nginelli/PIAP/blob/master/_files/Screen Shot 2020-05-06 at 8.18.35 PM.png">
+<img src= https://camo.githubusercontent.com/017392ee93aa1e5c1125db1c048ff28037efd39b/687474703a2f2f696d672e796f75747562652e636f6d2f76692f5f526f5a7a6552556c72772f302e6a7067>
 <br />
 <br />
 <br /><img src="https://github.com/nginelli/PIAP/blob/master/_files/Screen Shot 2020-05-06 at 10.49.05 PM.png">
