@@ -7,6 +7,7 @@ Inspired by collaborative drawing programs and a desire to make a novel type of 
 http://programming-is-art-final.herokuapp.com/
 
 ### Player Websockets <br/>
+Made in collaboration with Dylan Dawkins
 https://github.com/dylandawk/programming-is-art-final/
 
 <img src= https://camo.githubusercontent.com/017392ee93aa1e5c1125db1c048ff28037efd39b/687474703a2f2f696d672e796f75747562652e636f6d2f76692f5f526f5a7a6552556c72772f302e6a7067>
